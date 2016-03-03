@@ -12,8 +12,8 @@ description: >
   Frustrated by Georgian verbs? Or want to support the digitalization of
   the rich Georgian language? Read more about our project here and support
   our efforts!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/georgian-morphology-demo"
+url: "http://nathanshane.me"
 twitter_username: jekyllrb
 github_username:  jekyll
 timezone: Asia/Tbilisi
