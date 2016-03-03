@@ -7,7 +7,6 @@
 
 # Site settings
 title: Georgian Morphological Dictionary (Demo)
-email: your-email@domain.com
 description: >
   The demo site for the Georgian Morphological Dictionary project.
   Frustrated by Georgian verbs? Or want to support the digitalization of
@@ -21,6 +20,6 @@ timezone: Asia/Tbilisi
 permalink: /:categories/:title
 gems:
   - octopress-debugger
-  
+
 # Build settings
 markdown: kramdown
