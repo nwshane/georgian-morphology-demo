@@ -4,16 +4,12 @@ layout: default
 
 <ol>
 
-  <li>
-    <a href='#'>
-      ვაკეთებ
-    </a>
-  </li>
-
-  <li>
-    <a href='#'>
-      გავაკეთე
-    </a>
-  </li>
+  {% for word in site.categories.words %}
+    <li>
+      <a href="{{ word.url | prepend: site.baseurl }}">
+        {{ word.text }}
+      </a>
+    </li>
+  {% endfor %}
 
 </ol>
