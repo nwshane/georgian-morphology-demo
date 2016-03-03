@@ -2,8 +2,12 @@
 layout: default
 ---
 
-<ol>
+<h1>
+  Example words
+</h1>
 
+<ol>
+  
   {% for word in site.categories.words %}
     <li>
       <a href="{{ word.url | prepend: site.baseurl }}">
