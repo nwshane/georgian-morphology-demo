@@ -12,7 +12,7 @@ description: >
   Frustrated by Georgian verbs? Or want to support the digitalization of
   the rich Georgian language? Read more about our project here and support
   our efforts!
-baseurl: "/"
+baseurl: ""
 url: "http://kartuli.nathanshane.me"
 twitter_username: jekyllrb
 github_username:  jekyll
