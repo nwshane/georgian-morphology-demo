@@ -5,16 +5,24 @@ date: 2016-03-02 17:21:15 +0400
 categories: words
 ---
 
-* გავაკეთე
+{::options parse_block_html="true" /}
+
+<section class='verb-block'>
+## Past Simple Tense
+* __გავაკეთე__
 * გააკეთე
 * გააკეთა
 * გავაკეთეთ
 * გააკეთეთ
 * გააკეთეს
+</section>
 
+<section class='verb-block is-collapsed'>
+## Future Tense
 * გავაკეთებ
 * გააკეთებ
 * გააკეთებს
 * გავაკებთ
 * გააკეთებთ
 * გააკეთებენ
+</section>
