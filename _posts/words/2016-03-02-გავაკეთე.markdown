@@ -8,21 +8,34 @@ categories: words
 {::options parse_block_html="true" /}
 
 <section class='verb-block'>
-## Past Simple Tense
-* __გავაკეთე__
-* გააკეთე
-* გააკეთა
-* გავაკეთეთ
-* გააკეთეთ
-* გააკეთეს
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-down"></i>
+    Past Simple Tense
+  </h2>
+
+  * __გავაკეთე__
+  * გააკეთე
+  * გააკეთა
+  * გავაკეთეთ
+  * გააკეთეთ
+  * გააკეთეს
+  {: .js-collapsable }
+
 </section>
 
-<section class='verb-block js-expand-collapse is-collapsed'>
-## Future Tense
-* გავაკეთებ
-* გააკეთებ
-* გააკეთებს
-* გავაკებთ
-* გააკეთებთ
-* გააკეთებენ
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
+    Future Tense
+  </h2>
+
+  * გავაკეთებ
+  * გააკეთებ
+  * გააკეთებს
+  * გავაკებთ
+  * გააკეთებთ
+  * გააკეთებენ
+  {: .is-collapsed }
+
 </section>
