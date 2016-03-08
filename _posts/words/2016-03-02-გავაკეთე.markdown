@@ -17,7 +17,7 @@ categories: words
 * გააკეთეს
 </section>
 
-<section class='verb-block is-collapsed'>
+<section class='verb-block js-expand-collapse is-collapsed'>
 ## Future Tense
 * გავაკეთებ
 * გააკეთებ
