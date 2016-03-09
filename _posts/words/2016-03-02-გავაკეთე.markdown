@@ -12,7 +12,7 @@ categories: words
   * Tense: Past Simple
   * Person: First
   * Count: Singular
-  * Verb foundation: გაკეთება
+  * Verb Base: გაკეთება
 </section>
 
 <section class='verb-block'>
