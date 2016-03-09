@@ -5,3 +5,11 @@
 .verb-block ul.is-collapsed {
   display: none;
 }
+
+.verb-block ul li strong::before {
+  content: '>>> ';
+}
+
+.verb-block ul li strong::after {
+  content: ' <<<';
+}
