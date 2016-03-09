@@ -7,6 +7,13 @@ categories: words
 
 {::options parse_block_html="true" /}
 
+<section>
+  * Type: Verb
+  * Tense: Past Simple
+  * Person: First
+  * Count: Singular
+</section>
+
 <section class='verb-block'>
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-down"></i>
@@ -36,6 +43,23 @@ categories: words
   * გავაკებთ
   * გააკეთებთ
   * გააკეთებენ
+  {: .is-collapsed }
+
+</section>
+
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
+    Conditional
+  </h2>
+
+  * გავაკეთებდი
+  * გააკეთებდი
+  * გააკეთებდა
+  * გავაკებდით
+  * გააკეთებდით
+  * გააკეთებდნენ
   {: .is-collapsed }
 
 </section>
