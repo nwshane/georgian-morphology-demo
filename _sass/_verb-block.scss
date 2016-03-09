@@ -1,5 +1,7 @@
-.verb-block {
-  .is-collapsed {
-    display: none;
-  }
+.verb-block ul {
+  list-style-type: none;
+}
+
+.verb-block ul.is-collapsed {
+  display: none;
 }
