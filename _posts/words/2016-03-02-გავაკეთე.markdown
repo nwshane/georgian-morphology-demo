@@ -35,6 +35,40 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
+    Present
+  </h2>
+
+  * ვაკეთებ
+  * აკეთებ
+  * აკეთებს
+  * ვაკეთებთ
+  * აკეთებთ
+  * აკეთებენ
+  {: .is-collapsed }
+
+</section>
+
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
+    Past Continuous
+  </h2>
+
+  * ვაკეთებდი
+  * აკეთებდი
+  * აკეთებდა
+  * ვაკეთებდით
+  * აკეთებდით
+  * აკეთებდნენ
+  {: .is-collapsed }
+
+</section>
+
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
     Future Tense
   </h2>
 
