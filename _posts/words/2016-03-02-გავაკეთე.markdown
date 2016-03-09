@@ -8,11 +8,11 @@ categories: words
 {::options parse_block_html="true" /}
 
 <section>
+  * Verb Base: გაკეთება
   * Type: Verb
   * Tense: Past Simple
   * Person: First
   * Count: Singular
-  * Verb Base: გაკეთება
 </section>
 
 <section class='verb-block'>
