@@ -19,7 +19,7 @@ categories: words
 <section class='verb-block'>
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-down"></i>
-    Past Simple Tense
+    წარსული - წყვეტილი
   </h2>
 
   * __გავაკეთე__
@@ -36,7 +36,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Present
+    აწმყო
   </h2>
 
   * ვაკეთებ
@@ -53,7 +53,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Past Continuous
+    წარსული - უწყვეტელი
   </h2>
 
   * ვაკეთებდი
@@ -70,7 +70,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Present Perfect
+    წარსული - I თურმეობითი
   </h2>
 
   * გამიკეთებია
@@ -87,7 +87,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Present/Future Helper
+    II კავშირებითი
   </h2>
 
   * გავაკეთო
@@ -104,7 +104,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Past Helper
+    II თურმეობითი
   </h2>
 
   * გამეკეთებინა
@@ -121,7 +121,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Future Tense
+    მყოფადი (მომავალი)
   </h2>
 
   * გავაკეთებ
@@ -138,7 +138,7 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
-    Conditional
+    ხოლმეობითი
   </h2>
 
   * გავაკეთებდი
@@ -153,7 +153,7 @@ categories: words
 
 ## Other related words to maybe include:
 
-* Adjectives: გაკეთებული, გასაკეთებელი
+* ზედსართავი: გაკეთებული, გასაკეთებელი
 * კონტაკტი: ვაკეთებინებ, მაკეთებინებ, გააკეთებინო
 * სასხვისო: გავუკეთე, გაგიკეთებ
 * Passive: კეთდება
