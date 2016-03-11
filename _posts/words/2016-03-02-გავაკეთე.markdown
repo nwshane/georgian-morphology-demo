@@ -150,3 +150,11 @@ categories: words
   {: .is-collapsed }
 
 </section>
+
+## Other related words to maybe include:
+
+* Adjectives: გაკეთებული, გასაკეთებელი
+* კონტაკტი: ვაკეთებინებ, მაკეთებინებ, გააკეთებინო
+* სასხვისო: გავუკეთე, გაგიკეთებ
+* Passive: კეთდება
+* საარვისო: ვიკეთებ
