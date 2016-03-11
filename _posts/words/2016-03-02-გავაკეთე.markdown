@@ -11,7 +11,8 @@ categories: words
   * Verb Base: გაკეთება
   * Type: Verb
   * Tense: Past Simple
-  * Person: First
+  * Subject: მე
+  * Direct Object: ის
   * Count: Singular
 </section>
 
