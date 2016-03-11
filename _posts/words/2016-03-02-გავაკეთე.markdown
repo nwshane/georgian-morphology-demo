@@ -104,6 +104,23 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
+    Past Helper
+  </h2>
+
+  * გამეკეთებინა
+  * გაგეკეთებინა
+  * გაეკეთებინა
+  * გაგვიკეთებინა
+  * გაგიკეთებინათ
+  * გაეკეთებინათ
+  {: .is-collapsed }
+
+</section>
+
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
     Future Tense
   </h2>
 
