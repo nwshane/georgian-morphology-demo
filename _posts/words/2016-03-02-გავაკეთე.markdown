@@ -87,6 +87,23 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
+    Present/Future Helper
+  </h2>
+
+  * გავაკეთო
+  * გააკეთო
+  * გააკეთოს
+  * გავაკეთოთ
+  * გააკეთოთ
+  * გააკეთონ
+  {: .is-collapsed }
+
+</section>
+
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
     Future Tense
   </h2>
 
