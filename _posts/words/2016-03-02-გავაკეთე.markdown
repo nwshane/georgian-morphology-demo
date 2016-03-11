@@ -8,12 +8,12 @@ categories: words
 {::options parse_block_html="true" /}
 
 <section>
-  * Verb Base: გაკეთება
-  * Type: Verb
-  * Tense: Past Simple
-  * Subject: მე
-  * Direct Object: ის
-  * Count: Singular
+  * ზმნის პუძე: გაკეთება
+  * მეტყველების ნაწილი: ზმნა
+  * დრო: წარსული - წყვეტილი
+  * სუბიექტი პირი: მე
+  * ობიექტი პირი: ის
+  * Count (translation?): მხოლობითი
 </section>
 
 <section class='verb-block'>
@@ -156,5 +156,5 @@ categories: words
 * ზედსართავი: გაკეთებული, გასაკეთებელი
 * კონტაკტი: ვაკეთებინებ, მაკეთებინებ, გააკეთებინო
 * სასხვისო: გავუკეთე, გაგიკეთებ
-* Passive: კეთდება
+* Passive (translation?): კეთდება
 * საარვისო: ვიკეთებ
