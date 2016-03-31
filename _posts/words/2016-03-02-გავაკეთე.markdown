@@ -13,6 +13,7 @@ categories: words
   * დრო: წარსული - წყვეტილი
   * სუბიექტი: მე
   * პირდაპირი: ის
+  * ქცევა: საარვისო
   * Count (translation?): მხოლობითი
 </section>
 
@@ -104,6 +105,23 @@ categories: words
 
   <h2 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
+    III კავშირებითი (???)
+  </h2>
+
+  * ვაკეთებდე
+  * აკეთებდე
+  * აკეთებდეს
+  * ვაკეთებდეთ
+  * აკეთებდეთ
+  * აკეთებდნენ (???)
+  {: .is-collapsed }
+
+</section>
+
+<section class='verb-block'>
+
+  <h2 class='js-expand-collapse-siblings'>
+    <i class="fa fa-caret-right"></i>
     II თურმეობითი
   </h2>
 
@@ -156,5 +174,5 @@ categories: words
 * ზედსართავი: გაკეთებული, გასაკეთებელი
 * კონტაკტი: ვაკეთებინებ, მაკეთებინებ, გააკეთებინო
 * სასხვისო: გავუკეთე, გაგიკეთებ
-* Passive (translation?): კეთდება
-* საარვისო: ვიკეთებ
+* თხრობითი/ვნებითი: კეთდება
+* სათავისო: ვიკეთებ
