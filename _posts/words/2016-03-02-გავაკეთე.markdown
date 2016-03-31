@@ -17,8 +17,9 @@ categories: words
   * პირდაპირი: ის
 </section>
 
-<section>
-  <h2>
+<section class='section'>
+
+  <h2 class='heading mod-little-margin'>
     დაკავშირებული ფორმები
   </h2>
 
@@ -28,11 +29,15 @@ categories: words
 
 </section>
 
+<h2 class='section'>
+  ზმნის უღლება
+</h2>
+
 <section class='verb-block'>
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-down"></i>
     წარსული - წყვეტილი
-  </h2>
+  </h3>
 
   * __გავაკეთე__
   * გააკეთე
@@ -46,10 +51,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     აწმყო
-  </h2>
+  </h3>
 
   * ვაკეთებ
   * აკეთებ
@@ -63,10 +68,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     წარსული - უწყვეტელი
-  </h2>
+  </h3>
 
   * ვაკეთებდი
   * აკეთებდი
@@ -80,10 +85,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     წარსული - I თურმეობითი
-  </h2>
+  </h3>
 
   * გამიკეთებია
   * გაგიკეთებია
@@ -97,10 +102,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     II კავშირებითი
-  </h2>
+  </h3>
 
   * გავაკეთო
   * გააკეთო
@@ -114,10 +119,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     III კავშირებითი (???)
-  </h2>
+  </h3>
 
   * ვაკეთებდე
   * აკეთებდე
@@ -131,10 +136,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     II თურმეობითი
-  </h2>
+  </h3>
 
   * გამეკეთებინა
   * გაგეკეთებინა
@@ -148,10 +153,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     მყოფადი (მომავალი)
-  </h2>
+  </h3>
 
   * გავაკეთებ
   * გააკეთებ
@@ -165,10 +170,10 @@ categories: words
 
 <section class='verb-block'>
 
-  <h2 class='js-expand-collapse-siblings'>
+  <h3 class='js-expand-collapse-siblings'>
     <i class="fa fa-caret-right"></i>
     ხოლმეობითი
-  </h2>
+  </h3>
 
   * გავაკეთებდი
   * გააკეთებდი

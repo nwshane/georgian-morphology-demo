@@ -1,15 +1,23 @@
-.verb-block ul {
-  list-style-type: none;
+.verb-block {
+  margin-bottom: 1.5em;
 }
 
-.verb-block ul.is-collapsed {
-  display: none;
-}
+  .verb-block h3 {
+    margin-bottom: .4em
+  }
 
-.verb-block ul li strong::before {
-  content: '>>> ';
-}
+  .verb-block ul {
+    list-style-type: none;
+  }
 
-.verb-block ul li strong::after {
-  content: ' <<<';
-}
+  .verb-block ul.is-collapsed {
+    display: none;
+  }
+
+    .verb-block ul li strong::before {
+      content: '>>> ';
+    }
+
+    .verb-block ul li strong::after {
+      content: ' <<<';
+    }
