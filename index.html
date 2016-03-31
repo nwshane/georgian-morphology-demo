@@ -3,17 +3,50 @@ layout: default
 ---
 
 <h1>
-  Example words
+  Georgian Morphological Dictionary Demo
 </h1>
 
-<ol>
-  
-  {% for word in site.categories.words %}
-    <li>
-      <a href="{{ word.url | prepend: site.baseurl }}">
-        {{ word.text }}
-      </a>
-    </li>
-  {% endfor %}
+<section>
+  <h2>
+    Example words
+  </h2>
 
-</ol>
+  <ol>
+
+    {% for word in site.categories.words %}
+      <li>
+        <a href="{{ word.url | prepend: site.baseurl }}">
+          {{ word.text }}
+        </a>
+      </li>
+    {% endfor %}
+
+  </ol>
+</section>
+
+
+<section>
+  <h2>
+    TODO
+  </h2>
+
+  <ul>
+
+    <li>
+      გაკეთება
+    </li>
+
+    <li>
+      გავუკეთე
+    </li>
+
+    <li>
+      გავიკეთე
+    </li>
+
+    <li>
+      ვაკეთებ
+    </li>
+
+  </ul>
+</section>
