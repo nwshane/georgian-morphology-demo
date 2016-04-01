@@ -47,11 +47,11 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting",
-        "verb-block",
-        'section',
-        'heading',
+        'base',
+        'layout',
+        'syntax-highlighting',
+        'components/verb-block',
+        'components/section',
+        'components/heading',
         'components/key-value-pair'
 ;
