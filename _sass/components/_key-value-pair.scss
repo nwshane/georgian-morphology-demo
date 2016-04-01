@@ -1,0 +1,15 @@
+.key-value-pair {
+
+}
+
+  .key-value-pair-key {
+    font-weight: bold;
+  }
+
+  .key-value-pair-key::after {
+    content: ':';
+  }
+
+  .key-value-pair-value {
+
+  }
