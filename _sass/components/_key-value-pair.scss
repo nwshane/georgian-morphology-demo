@@ -1,15 +1,27 @@
-.key-value-pair {
+$on-width-become-table: 575px;
 
+.key-value-pair {
+  list-style-type: none;
 }
 
   .key-value-pair-key {
     font-weight: bold;
+
+    @media (min-width: $on-width-become-table) {
+      display: table-cell;
+      min-width: 15em;
+    }
   }
 
   .key-value-pair-key::after {
     content: ':';
+    margin-left: -4px;
   }
 
   .key-value-pair-value {
+    margin-left: 0.5em;
 
+    @media (min-width: $on-width-become-table) {
+      display: table-cell;
+    }
   }
